@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  height: 50px;
+  width: 80px;
+}
+
+div {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(167, 127, 205);
+  transition: all 1.5s linear;
+}
